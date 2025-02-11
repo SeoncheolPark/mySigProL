@@ -1,0 +1,12 @@
+name: mySigProL
+title: mySigProL
+username: seoncheolpark
+account: seoncheolpark
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13963340
+bundleId: 9780045
+url: https://seoncheolpark.shinyapps.io/mySigProL/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
